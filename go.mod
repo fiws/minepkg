@@ -2,7 +2,7 @@ module github.com/minepkg/minepkg
 
 require (
 	github.com/Masterminds/semver/v3 v3.1.1
-	github.com/Tnze/go-mc v1.16.5
+	github.com/Tnze/go-mc v1.17.0
 	github.com/andybalholm/brotli v1.0.3 // indirect
 	github.com/briandowns/spinner v1.16.0
 	github.com/charmbracelet/bubbletea v0.14.1
